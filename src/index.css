@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-main: #0B0B10;
+    --surface-card: #15151F;
+    --surface-card-hover: #1C1C29;
+    --surface-border: rgba(255, 255, 255, 0.08);
+    --accent-primary: #6366F1;
+  }
+
+  * {
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  input, textarea {
+    user-select: text;
+    -webkit-user-select: text;
+  }
+
+  html, body, #root {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0B0B10;
+    color: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Prevent accidental pull to refresh / bounce on iOS */
+body {
+  overscroll-behavior-y: none;
+  position: fixed;
+  inset: 0;
+}
+
+/* Thermal Receipt Edge for Post-Game */
+.receipt-jagged {
+  background-image: radial-gradient(circle at 10px -5px, transparent 12px, #FFF8E7 13px);
+  background-size: 20px 20px;
+  background-repeat: repeat-x;
+}
+
+.receipt-bottom-teeth {
+  background: radial-gradient(circle, transparent, transparent 50%, #FFF8E7 50%, #FFF8E7 100%);
+  background-size: 16px 16px;
+}
+
+/* Utilities */
+@layer utilities {
+  .no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+}

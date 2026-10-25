@@ -1,0 +1,248 @@
+{
+  "chameleon": [
+    {
+      "category": "STREET FOOD",
+      "words": ["Momos", "Pani Puri", "Tacos", "Shawarma", "Vada Pav", "Churros", "Hot Dog", "Falafel", "Samosa", "Crepe", "Poutine", "Bao Buns", "Gyro", "Kathi Roll", "Corn Dog", "Dim Sum"]
+    },
+    {
+      "category": "COCKTAILS & NIGHTLIFE",
+      "words": ["Margarita", "Long Island", "Mojito", "Espresso Martini", "Old Fashioned", "Tequila Sunrise", "Jägerbomb", "Cosmopolitan", "Piña Colada", "Gin & Tonic", "Moscow Mule", "Sangria", "Whiskey Sour", "Negroni", "Aperol Spritz", "Beer Pitcher"]
+    },
+    {
+      "category": "RED FLAGS",
+      "words": ["Hates Dogs", "Crypto Bro", "Bad Tipper", "Texts Their Ex", "Never Apologizes", "Chews Loudly", "Always Late", "Serial Ghoster", "Brags About IQ", "Hates Music", "Claps On Landing", "Mom Runs Life", "Refuses To Split Bill", "Mirror Selfies", "Hates Traveling", "Uses Comic Sans"]
+    },
+    {
+      "category": "CHILDHOOD CARTOONS",
+      "words": ["Tom & Jerry", "Ben 10", "Doraemon", "Shinchan", "SpongeBob", "Powerpuff Girls", "Scooby Doo", "Pokémon", "Courage Dog", "Dexter's Lab", "Phineas & Ferb", "Teen Titans", "Looney Tunes", "Avatar Aang", "Mickey Mouse", "Dragon Ball Z"]
+    },
+    {
+      "category": "BLOCKBUSTER MOVIES",
+      "words": ["Endgame", "Inception", "Titanic", "Dark Knight", "Jurassic Park", "Harry Potter", "Interstellar", "The Matrix", "Avatar", "Spider-Man", "Shrek", "Barbie", "Oppenheimer", "Star Wars", "Gladiator", "Pulp Fiction"]
+    },
+    {
+      "category": "TECH & APPS",
+      "words": ["TikTok", "Tinder", "ChatGPT", "Uber", "Instagram", "Spotify", "Netflix", "Duolingo", "WhatsApp", "Reddit", "YouTube", "Slack", "LinkedIn", "Bumble", "Twitch", "Google Maps"]
+    },
+    {
+      "category": "COLLEGE LIFE",
+      "words": ["8 AM Lecture", "2 AM Maggi", "All-Nighter", "Project Slacker", "Proxy Attendance", "Library Nap", "Broke Account", "Campus Dating", "Backbencher", "Borrowed Charger", "Instant Coffee", "Hostel Wi-Fi", "Exam Panic", "Syllabus Rush", "Canteen Chai", "Last Minute"]
+    },
+    {
+      "category": "TRAVEL DESTINATIONS",
+      "words": ["Goa", "Paris", "Tokyo", "Bali", "New York", "Amsterdam", "Dubai", "Ladakh", "Santorini", "Las Vegas", "Bangkok", "Swiss Alps", "Iceland", "London", "Maldives", "Manali"]
+    },
+    {
+      "category": "FAMOUS MUSICIANS",
+      "words": ["Taylor Swift", "Drake", "Beyoncé", "Eminem", "Arijit Singh", "Billie Eilish", "The Weeknd", "Diljit Dosanjh", "Ed Sheeran", "Rihanna", "Justin Bieber", "Dua Lipa", "Bruno Mars", "BTS", "Post Malone", "Freddie Mercury"]
+    },
+    {
+      "category": "DESI SNACKS",
+      "words": ["Masala Chai", "Bhujia", "Parle-G", "Mixture", "Kurkure", "Mathri", "Chakli", "Banana Chips", "Bhel Puri", "Namkeen", "Khakhra", "Pakora", "Murukku", "Veg Puff", "Peanuts", "Makhana"]
+    },
+    {
+      "category": "BOARD & VIDEO GAMES",
+      "words": ["Monopoly", "Uno", "Ludo", "Catan", "GTA V", "Minecraft", "Call of Duty", "FIFA", "Among Us", "Scrabble", "Chess", "Mario Kart", "Valorant", "Clue", "Twister", "Pokémon Go"]
+    },
+    {
+      "category": "EXCUSES FOR BEING LATE",
+      "words": ["Traffic Jam", "Alarm Failed", "Lost Keys", "Train Delayed", "Cab Cancelled", "Dog Ran Away", "Spilled Coffee", "Thought Tomorrow", "Lost Track", "Bad GPS", "Urgent Call", "Battery Died", "Locked Out", "Bad Outfit", "Helped Someone", "Alien Kidnap"]
+    }
+  ],
+  "wavelength": [
+    ["TRASHY", "CLASSY"],
+    ["TERRIBLE FIRST DATE", "DREAM FIRST DATE"],
+    ["USELESS SUPERPOWER", "GOD-TIER SUPERPOWER"],
+    ["WORST FUNERAL SONG", "BEST FUNERAL SONG"],
+    ["EASY TO FORGIVE", "UNFORGIVABLE SIN"],
+    ["MILDLY ANNOYING", "PURE UNBRIDLED RAGE"],
+    ["DANGEROUS PREDATOR", "CUDDLY PET"],
+    ["GUILTY PLEASURE", "PUBLICLY PROUD"],
+    ["TASTES AWFUL BUT HEALTHY", "TASTES HEAVENLY BUT LETHAL"],
+    ["OVERRATED HYPE", "UNDERRATED GEM"],
+    ["REPUGNANT STENCH", "HEAVENLY AROMA"],
+    ["TACKY WHITE ELEPHANT", "LEGENDARY GIFT"],
+    ["CHAOTIC EVIL", "LAWFUL GOOD"],
+    ["CURSED VIBE", "BLESSED VIBE"],
+    ["LOOKS LIKE A DOLLAR STORE KNOCKOFF", "LOOKS LIKE PURE LUXURY"],
+    ["AWKWARD SMALL TALK", "3 AM SOUL CONFESSION"],
+    ["TERRIFYING IN THE DARK", "COMFORTING IN THE DARK"],
+    ["EMBARRASSINGLY CHILDISH", "PEAK MATURITY"],
+    ["DUMB PURE LUCK", "CALCULATED GENIUS"],
+    ["NIGHTMARE ROOMMATE HABIT", "SAINT ROOMMATE HABIT"],
+    ["WEAK PATHETIC FLEX", "LEGENDARY POWER MOVE"],
+    ["INSTANT SWIPE LEFT", "INSTANT SUPER LIKE"],
+    ["IMPOSSIBLE TO SPELL", "EFFORTLESS TO SPELL"],
+    ["MEDIEVAL TORTURE CLOTHING", "CLOUD-LIKE COMFORT"],
+    ["PATHETIC EXCUSE", "100% UNQUESTIONABLE EXCUSE"],
+    ["CRIMSON RED FLAG", "GLOWING GREEN FLAG"],
+    ["SUPER CRINGE IN HIGH SCHOOL", "PEAK COOL IN HIGH SCHOOL"],
+    ["MORTIFYING TO WATCH WITH PARENTS", "WHOLESOME FAMILY VIEWING"],
+    ["FEELS ILLEGAL BUT IS LEGAL", "ACTUALLY A FELONY"],
+    ["SHAMELESS HIGHWAY ROBBERY", "THE DEAL OF THE CENTURY"],
+    ["EMBARRASSING DUMB DEATH", "HEROIC CINEMATIC SACRIFICE"],
+    ["PUNISHMENT PIZZA TOPPING", "GOD-TIER PIZZA TOPPING"],
+    ["PAINFUL CRINGE SILENCE", "MAGNETIC FLIRTY SILENCE"],
+    ["TERRIFYING TO HEAR FROM SURGEON", "REASSURING TO HEAR FROM SURGEON"],
+    ["INTROVERT HELL", "EXTROVERT UTOPIA"]
+  ],
+  "fakinIt": [
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Hours of sleep you got last night (1 to 5+)."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Cups of coffee or tea you drank today."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Days in a row you have worn the exact same lounge outfit."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Number of exes you still follow on social media."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Your current stress level from 1 to 5."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: How many times you pressed snooze this morning."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Rating out of 5 for your personal chef cooking skills."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Drinks it takes before you start karaoke or dancing."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Rating out of 5 for how extroverted you feel tonight."
+    },
+    {
+      "type": "FINGERS",
+      "prompt": "Hold up as many fingers as: Unread notifications badges on your primary chat app (1 to 5+)."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person most likely to get accidentally detained abroad."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person who spends the most time admiring themselves in the mirror."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person who is secretly the worst at replying to text messages."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person who would survive the longest in a zombie apocalypse."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person most likely to become an unhinged reality TV villain."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person with the most criminally high daily screen time."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person who gives the best, most brutal life advice."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person most likely to order late-night takeout twice in one evening."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person who would crack first in a high-stakes police interrogation."
+    },
+    {
+      "type": "POINT",
+      "prompt": "Point at the person you would trust to safely hide a winning lottery ticket."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Make your most dramatic 'I just smelled something rancid' face."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Make an over-the-top, telenovela gasped shock face."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Give the room your most suspicious, bombastic side-eye."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Make your most smug, mustache-twirling cartoon villain grin."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Look like you just walked in on your parents having a slow dance."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Make the agonizing face of trying to hold back a violent sneeze."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Strike your most exaggerated, shamelessly pouty influencer selfie pose."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Look utterly paralyzed with fear as if a giant moth landed on your nose."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Deliver an aggressively confident, cheeseball wink and smirk."
+    },
+    {
+      "type": "FACE",
+      "prompt": "Go totally emotionless and blank like a frozen video game NPC."
+    }
+  ],
+  "hotTakes": [
+    "Pineapple on pizza is culinary brilliance and purists are cowardly.",
+    "Voice notes longer than 30 seconds are an act of psychological warfare.",
+    "Making your bed every single morning is a meaningless ritual for control freaks.",
+    "European vacations are massively overrated compared to Southeast Asian chaos.",
+    "Coffee tastes like bitter dirt; humanity is just held hostage by caffeine addiction.",
+    "The TV show 'Friends' has never produced a single genuine belly laugh.",
+    "Texting back with just the letter 'k' is completely valid and efficient.",
+    "Waking up at 5:00 AM to work out is performative cult behavior.",
+    "Cereal is undeniably a form of cold breakfast soup.",
+    "Full-grown adults obsessed with theme parks are harboring secret darkness.",
+    "Destination weddings are expensive hostage situations forced upon friends.",
+    "Beyoncé makes decent tracks, but the cultural deity status is ridiculous.",
+    "Leaving dirty pans in the sink 'to soak' is an outright lie we tell ourselves.",
+    "Instagram 'Close Friends' stories exist exclusively for unhinged thirst traps and drama.",
+    "Marvel cinematic universe peaked at Endgame and everything since is slop.",
+    "Passengers stuck in the middle airplane seat should receive complimentary drinks and cash.",
+    "Listening to audiobooks or podcasts at 2x speed means you hate the content.",
+    "Board games like Monopoly destroy more households than infidelity.",
+    "Straight-out-of-the-fridge cold pizza dominates piping fresh delivery every time.",
+    "Splitting a dining bill evenly when someone ordered three cocktails and a steak is theft.",
+    "Cats are objectively superior to dogs because their affection must be earned.",
+    "People who do not return grocery shopping carts cannot be trusted in civil society.",
+    "Wearing fresh white sneakers with a tailored formal suit looks awful 100% of the time.",
+    "Smartphones at house parties have killed spontaneous late-night lore.",
+    "Astrology and zodiac compatibility are modern adult horoscopes for avoiding accountability.",
+    "Tipping percentages on tablet checkout screens have crossed into daylight extortion.",
+    "Watermelon is simply crunchy sugar water with terrible texture.",
+    "Every website and mobile application should default to dark mode by international law.",
+    "People who clap when an airplane touches down should have their passports checked.",
+    "Having over 5,000 unread emails in your inbox is a clear signal of spiritual chaos.",
+    "Random shower thoughts hold more wisdom than ninety percent of university lectures.",
+    "Movie theater popcorn pricing is the most successful legalized cartel in history.",
+    "Nobody in recorded human history has ever enjoyed small talk about the weekend weather.",
+    "Sleeping in bed with socks on is deeply unnerving behavior.",
+    "If you attend a house party and refuse to dance, you should be assigned to trash duty."
+  ]
+}

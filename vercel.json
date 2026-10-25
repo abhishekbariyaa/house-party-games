@@ -1,4 +1,5 @@
 {
+  "name": "house-party-games",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
